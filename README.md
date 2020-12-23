@@ -10,7 +10,7 @@ You can see my project completed here: https://ip-tracker-eight.vercel.app/
 The challenge is to build out an IP Address Tracker app and get it looking as close to the design as possible. 
 To get the IP Address locations, I used the [IP Geolocation API by IPify](https://geo.ipify.org/). To generate the map, I used [LeafletJS](https://leafletjs.com/).
 
-My users are be able to:
+My users are able to:
 
 - View the optimal layout for each page depending on their device's screen size
 - See hover states for all interactive elements on the page
