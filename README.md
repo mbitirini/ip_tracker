@@ -1,9 +1,10 @@
 # IP Address Tracker 
 You can see my project completed here: https://ip-tracker-eight.vercel.app/
-(Challenge from Frontend Mentor: https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
-![Design preview for the IP Address Tracker coding challenge](./design/desktop-preview.jpg)
+
 
 ## Welcome! 👋
+(Challenge from Frontend Mentor: https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+![Design preview for the IP Address Tracker coding challenge](./design/desktop-preview.jpg)
 ## The challenge
 
 The challenge is to build out an IP Address Tracker app and get it looking as close to the design as possible. 
